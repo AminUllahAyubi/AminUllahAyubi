@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AminUllahAyubi
-- 👀 I’m interested in webdeveloping
+- 👀 I’m interested in webdevelopment
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on web designing
+- 💞️ I’m looking to collaborate on the web designing and database projects
 - 📫 How to reach me 
 aminayubi212@gmail.com
 Amin Ullah Ayubi on twitter
