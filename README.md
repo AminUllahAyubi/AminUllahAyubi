@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AminUllahAyubi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react
+- 👀 I’m interested in Blockchain and Smart Contract Development && Security, Data Science, Database Administration 
+- 🌱 I’m currently learning and working in web3 security space
 - 💞️ I’m looking to collaborate on the web designing and database projects
 - 📫 How to reach me 
 aminayubi212@gmail.com
-Amin Ullah Ayubi on twitter
+@AminUllahAyubi3 on twitter
 
 <!---
 AminUllahAyubi/AminUllahAyubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
