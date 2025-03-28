@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AminUllahAyubi
-- 👀 I’m interested in Blockchain and Smart Contract Development && Security, Data Science, Database Administration 
-- 🌱 I’m currently learning and working in Smart Contract Development and Security (Web3).
-- 💞️ I’m looking to collaborate on the Web3 Development and Security projects
+- 👀 I’m WEB3 ,Blockchain and Smart Contract Developer && Smart Contract Security Researcher and Auditor, Database Administration 
+- 🌱 I’m currently learning and working in Smart Contract and Blockchain Development and Smart Contract Security && Auditing (Web3).
+- 💞️ I’m looking to collaborate on the Web3 Development, Security and auditing projects
 - 📫 How to reach me 
 Email: aminayubi212@gmail.com
 X:(https://x.com/AminUllahAyubi3)
