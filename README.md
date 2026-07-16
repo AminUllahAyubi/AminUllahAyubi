@@ -6,18 +6,19 @@
 
 Independent Web3 Smart Contract Security Researcher focused on securing DeFi.
 Contributor on Code4rena, Cantina and Immunefi contest and bug bounty program.
-
+Independent Smart contract researcher and Operation team member in private security company.
+Open for private audit(one protocol auditing at a time).
 
 🔗 Connect (DM for audit)
-[🐦 Twitter (@aua_oo7)](https://x.com/aua_oo7) | 💬 Discord (@aua_oo7)
+[🐦 Twitter (@aua_oo7)](https://x.com/aua_oo7) | 💬 Discord (@aua_oo7) |
 
 🛠️ Technical Expertise
 
 - Languages: Solidity
 - Ecosystem: EVM
 - Framework: Foundry
-- Testing: Expert in Testing smart contract 
-- Focus Areas: Stablecoin, Staking/Vesting, DEX, Bridge, Lending/Borrowing protocols.
+- Testing: Expert in Testing(Unit, Integration, Invariant) of smart contracts. 
+- Focus Areas: Stablecoin, Staking/Vesting, Lending&&Borrowing, Vaults, DEX, Orderbook, Bridge, Account Abstraction
 
 ### 🌐 Profiles
 
