@@ -33,7 +33,7 @@ Open for private audit(one protocol audit and security review at a time).
 
 <details open> <summary><strong> Public Contests</strong></summary>
 
-| Protocol | Description | Findings | Platform | Report |
+| Protocol | Description | Findings | Platform | LeaderBoard/Report |
 | --- | --- | --- | --- | --- |
 | [Alchemix V3](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/information/) | Borrowing | 1C 1M | Immunefi | [📄](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/leaderboard/#top ) |
 | [desk-orderbook](https://cantina.xyz/code/68d65682-ed04-48aa-969d-09a335de3748/overview) | Perpetual | 1M | Cantina | [📄]( https://cantina.xyz/competitions/68d65682-ed04-48aa-969d-09a335de3748/leaderboard ) |
