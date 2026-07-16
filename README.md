@@ -9,7 +9,7 @@ Contributor on Code4rena, Cantina and Immunefi contest and bug bounty program.
 
 Currently focus on Bug Bounty of smart contracts and Working as an Independent Smart contract security researcher and Operation team member in private security company.
 
-Open for private audit(one protocol auditing at a time).
+Open for private audit(one protocol audit and security review at a time).
 
 🔗 Connect (DM for audit)
 [🐦 Twitter (@aua_oo7)](https://x.com/aua_oo7) | 💬 Discord (@aua_oo7) |
