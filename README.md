@@ -7,7 +7,7 @@
 Independent Web3 Smart Contract Security Researcher focused on securing DeFi.
 Contributor on Code4rena, Cantina and Immunefi contest and bug bounty program.
 
-Independent Smart contract researcher and Operation team member in private security company.
+Independent Smart contract security researcher and Operation team member in private security company.
 
 Open for private audit(one protocol auditing at a time).
 
