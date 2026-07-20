@@ -7,7 +7,7 @@
 Independent Web3 Smart Contract Security Researcher focused on securing DeFi.
 Contributor on Code4rena, Cantina and Immunefi contest and bug bounty program.
 
-Currently focus on Bug Bounty of smart contracts and Working as an Independent Smart contract security researcher and Operation team member in private security company.
+Currently focus on Bug Bounty of smart contracts and Working as an Independent Smart contract security researcher and Operation team member in (ForgeAudit https://www.forgeaudit.io/).
 
 Open for private audit(one protocol audit and security review at a time).
 
